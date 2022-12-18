@@ -1,0 +1,18 @@
+{
+    "id": "dev.asportnoy.BubbleBar",
+    "name": "Bubble Bar",
+    "description": "A nice, rounded, bubbly chatbar",
+    "author": {
+        "name": "asportnoy",
+        "discordID": "489484338514100234",
+        "github": "asportnoy"
+    },
+    "version": "1.0.0",
+    "updater": {
+        "type": "github",
+        "id": "asportnoy/bubble-bar"
+    },
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "src/main.scss"
+}
